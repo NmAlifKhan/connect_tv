@@ -19,7 +19,7 @@ http://172.16.29.34:80/play/NVlaNZ1VHS3FaHGMH-VxxQMaSY4TLLJxDz5__jSVDNs/m3u8
 http://172.16.29.34:80/play/NVlaNZ1VHS3FaHGMH-VxxXsMbed3sokLAgj53537s24/m3u8
 
 #EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/tv/T-Sports.png",T Sports
-http://172.16.29.34:80/play/3byAYyQhPBO9ARa0Rup6WoBGvRKAki5ablPIoNwhsQM/m3u8
+http://103.96.235.18:8080/sports1/index.m3u8
 
 #EXTINF:-0 tvg-logo="https://github.com/NmAlifKhan/Channel-Icon/blob/tv/Channel%20A1.png?raw=true",Channel A1
 https://global.ncare.live/live-orgin/cha1.stream/playlist.m3u8
